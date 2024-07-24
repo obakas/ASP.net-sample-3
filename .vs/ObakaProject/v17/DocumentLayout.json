@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\pricing.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\blogsingle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\testimonials.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\team.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|c:\\users\\obaka\\documents\\coding\\obakaproject\\obakaproject\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0624793A-5DD6-4616-8E0B-8B7906C00316}|ObakaProject\\ObakaProject.csproj|solutionrelative:obakaproject\\views\\home\\services.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAIIAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T22:01:01.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:52:59.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogSingle.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\BlogSingle.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\BlogSingle.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\BlogSingle.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\BlogSingle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:46:50.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pricing.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Pricing.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Pricing.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Pricing.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Pricing.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:42:09.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Testimonials.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Testimonials.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Testimonials.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Testimonials.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Testimonials.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:40:35.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Team.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Team.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Team.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Team.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Team.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:38:38.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Services.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Services.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Services.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Services.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Services.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:37:21.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Portfolio.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Portfolio.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACwAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:34:19.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Contact.cshtml*",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Contact.cshtml*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:32:15.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Blog.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\Blog.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\Blog.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\Blog.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:26:18.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ObakaProject\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Obaka\\Documents\\CODING\\ObakaProject\\ObakaProject\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ObakaProject\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGEAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-07T21:21:51.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
